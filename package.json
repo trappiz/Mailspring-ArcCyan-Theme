@@ -1,0 +1,12 @@
+{
+  "name": "ui-darksideARC",
+  "displayName": "darksideARC",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "A customizable, dark sidebar theme for Mailspring based on the ARC Theme.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
