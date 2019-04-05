@@ -3,4 +3,4 @@
 
 **Modified to look good together with the Arc Theme for Linux with the addition on of cyan colors**
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot_mailspring_arccyantheme.png)
